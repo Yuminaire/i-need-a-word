@@ -5,6 +5,7 @@
 For the time being it only has online support, which means it will choose a word on a random word generator website but I will add offline support in the near future.
 
 Languages available are: Arabic (AR), Danish, (DA), Dutch (NL), Finnish (FI), French (FR), German (DE), Italian (IT), Portuguese (PT), Spanish (ES), Swedish (SV).
+
 See **Usage** for how to use INAW.
 
 ## Installation
@@ -39,7 +40,7 @@ random_french_word = INAW.word('FR')
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[realYuushi/i-need-a-word.
+Bug reports and pull requests are welcome on GitHub at https://github.com/realYuushi/i-need-a-word.
 
 
 ## License
