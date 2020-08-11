@@ -1,7 +1,9 @@
 # INAW (I Need A Word)
 
-**INAW** is a RubyGem that allows to randomly choose a word in different languages.
-For the time being it only has online support, which means it will choose a word on random word generator website but I will add offline support in the near future.
+**INAW** is a RubyGem that allows you to randomly choose a word in different languages.
+
+For the time being it only has online support, which means it will choose a word on a random word generator website but I will add offline support in the near future.
+
 Languages available are: Arabic (AR), Danish, (DA), Dutch (NL), Finnish (FI), French (FR), German (DE), Italian (IT), Portuguese (PT), Spanish (ES), Swedish (SV).
 See **Usage** for how to use INAW.
 
