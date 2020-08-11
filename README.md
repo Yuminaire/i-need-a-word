@@ -32,7 +32,7 @@ require INAW
 random_english_word = INAW.word('EN')
 
 # chooses a random French word
-random_english_word = INAW.word('FR')
+random_french_word = INAW.word('FR')
 ```
 
 ## Contributing
